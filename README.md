@@ -1,1 +1,1 @@
-# BAND-Projects
+# Business Analyst-Nanodegree Udacity-Projects
